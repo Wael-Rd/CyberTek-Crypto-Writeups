@@ -99,9 +99,9 @@ print(long_to_bytes(gmpy2.iroot(pow(c, int(d), n), 2)[0]))
 
 ---
 
-## 🌟 Challenge 2: syb3lik
+##  Challenge 2: syb3lik
 
-### 🧩 Overview
+###  Overview
 
 **syb3lik** is an elliptic curve-based challenge. We must decrypt three AES-encrypted messages to win the flag. We’re given:
 
@@ -268,9 +268,9 @@ The challenge uses a weak RNG based on elliptic curve operations:
 
 ---
 
-## 🌟 Challenge 3: ezRSA
+##  Challenge 3: ezRSA
 
-### 🧩 Overview
+###  Overview
 
 **ezRSA** splits the flag into two parts, encrypted with RSA:
 
@@ -408,9 +408,9 @@ The flag is split into `flag1` and `flag2`.
 
 ---
 
-## 🌟 Challenge 4: hash101
+##  Challenge 4: hash101
 
-### 🧩 Overview
+###  Overview
 
 **hash101** uses RSA over complex numbers and ChaCha20. We’re given:
 
@@ -565,9 +565,9 @@ We recover `m.re` and `m.im` to decrypt the flag:
 
 ---
 
-## 🌟 Challenge 5: ezMATH
+##  Challenge 5: ezMATH
 
-### 🧩 Overview
+###  Overview
 
 **ezMATH** is an RSA challenge with:
 
@@ -632,9 +632,9 @@ print(long_to_bytes(pow(c, inverse(e, (p-1)*(n//p-1)), n)))
 
 ---
 
-## 🌟 Challenge 6: QUANTUM-BB84
+##  Challenge 6: QUANTUM-BB84
 
-### 🧩 Overview
+###  Overview
 
 **QUANTUM-BB84** simulates the BB84 quantum key distribution protocol. We’re given:
 
