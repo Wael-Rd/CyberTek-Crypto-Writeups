@@ -9,9 +9,9 @@ Welcome to an exciting journey through six CyberTek cryptography challenges: **e
 
 ---
 
-## 🌟 Challenge 1: ezRSA+
+##  Challenge 1: ezRSA+
 
-### 🧩 Overview
+###  Overview
 
 **ezRSA+** is an RSA-based puzzle with a non-standard setup. We’re given:
 
