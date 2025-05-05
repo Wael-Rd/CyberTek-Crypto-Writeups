@@ -1,4 +1,4 @@
-# 🚀 CyberTek Crypto Challenges Writeup 🎉
+🚀 CyberTek Crypto Challenges Writeup 
 
 Welcome to an exciting journey through six CyberTek cryptography challenges: **ezRSA+**, **syb3lik**, **ezRSA**, **hash101**, **ezMATH**, and **QUANTUM-BB84**. These puzzles test our skills in RSA, elliptic curves, complex number cryptography, and quantum key distribution. Let’s dive into the solutions with clear explanations and code! 🔍
 
